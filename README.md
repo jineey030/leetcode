@@ -17,9 +17,6 @@
 leetcode/
 ├── 📄 README.md
 ├── 🟢 Easy/
-│   └── 0001-two-sum/
-│       ├── Solution.java
-│       └── README.md
 ├── 🟡 Medium/
 └── 🔴 Hard/
 ```
